@@ -7,7 +7,7 @@ run it and type "start" to play!
 # how to adjust settings
 change the <i><b>timer</b></i> variable to make it easier/harder to play!
 
-you can add and remove words in the <i><b>words</b></i> from the words table
+you can add and remove words in the <i><b>words.txt</b></i> file
 
 # other
 any tips/contributions would help, I am still a beginner to python.
